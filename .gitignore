@@ -26,13 +26,4 @@ hs_err_pid*
 
 /.idea
 /**/*.iml
-/spring-boot-vigoss-starter/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
-/vigoss-core/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
-/spring-boot-vigoss-starter/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
-/spring-boot-vigoss-starter/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
-/vigoss-core/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
-/vigoss-core/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
-/spring-boot-vigoss-starter/target/maven-archiver/pom.properties
-/vigoss-core/target/maven-archiver/pom.properties
-/spring-boot-vigoss-starter/target/classes/META-INF/spring.factories
-/spring-boot-vigoss-starter/target/classes/META-INF/spring-configuration-metadata.json
+/**/target
